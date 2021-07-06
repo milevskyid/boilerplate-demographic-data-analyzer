@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # In[2]:
-df = pd.read_csv('/Users/pro/Downloads/adult.data.csv')
+df = pd.read_csv('adult.data.csv')
 df.head()
 
 
